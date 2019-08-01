@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Download\Compressed\KTMMotor-master\KTMMotor-master\app\build\intermediates\exploded-aar\com.github.neopixl\PixlUI\v1.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="20223cb77f297e6cab6f521fd11bc88d8db1db17">
+        <dex dex="D:\Download\Compressed\KTMMotor-master\KTMMotor-master\app\build\intermediates\pre-dexed\debug\com.github.neopixl-PixlUI-v1.1.0_5286142b7809207cb52cfd88fb050e875490f02a.jar" />
+    </item>
+    <item
+        jar="D:\Download\Compressed\KTMMotor-master\KTMMotor-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="D:\Download\Compressed\KTMMotor-master\KTMMotor-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.0.0_d9b9606a2dfd9e5f3e9306c68c873ce095c3ac25.jar" />
+    </item>
+    <item
+        jar="D:\Download\Compressed\KTMMotor-master\KTMMotor-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="D:\Download\Compressed\KTMMotor-master\KTMMotor-master\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0_4297315d97e71f311e3fb662b36adb52f2cdbfb7.jar" />
+    </item>
+    <item
+        jar="D:\Download\Compressed\KTMMotor-master\KTMMotor-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="D:\Download\Compressed\KTMMotor-master\KTMMotor-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.0.0_f3c7db8021d5f78640343efe89eab9b35c2251ef.jar" />
+    </item>
+    <item
+        jar="C:\Users\tiana\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v3.0.0-beta1\54d65d51b5ebec588a19b2384efb6395b5bf5b18\MPAndroidChart-v3.0.0-beta1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="54d65d51b5ebec588a19b2384efb6395b5bf5b18">
+        <dex dex="D:\Download\Compressed\KTMMotor-master\KTMMotor-master\app\build\intermediates\pre-dexed\debug\MPAndroidChart-v3.0.0-beta1_d41ee13d0f188f43e588e7d3958eb94669a02e79.jar" />
+    </item>
+    <item
+        jar="C:\Users\tiana\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\22.0.0\685d0b2c590447e85284ed84712cb363ba04eff8\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="D:\Download\Compressed\KTMMotor-master\KTMMotor-master\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0_b84b15fc810eba674bf78ed660fc012bd103d2cb.jar" />
+    </item>
+
+</items>

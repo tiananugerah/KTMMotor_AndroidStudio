@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">KTM Motor</string>
+	<!-- SpeedActivity.java -->
+	<string name="activity_infobull">ini adalah kotak pesan khusus</string>
+	<string name="activity_infotitle">Tentang Decibel</string>
+	<string name="activity_infobutton">Ok</string>
+	<string name="activity_recStartErr">Tidak dapat memulai perekaman</string>
+	<string name="activity_recBusyErr">Perekam sibuk atau izin untuk merekam dilarang</string>
+	<string name="activity_recFileErr">Tidak dapat membuat file</string>
+	<!-- activity_nu_careare.xml -->
+	<string name="activity_minlabel">Minimum</string>
+	<string name="activity_avglabel">Average</string>
+	<string name="activity_maxlabel">Maximum</string>
+	<string name="activity_curlabel">Real Time</string>
+	<!-- dialog_info.xml -->
+	<string name="info_0db">0dB: Kebanyakan orang hanya mendengar suara rendah.</string>
+	<string name="info_30db">30dB ～ 40dB itu adalah ketenangan ideal.</string>
+	<string name="info_50db">50dB dan banyak lagi: memengaruhi istirahat dan tidur.</string>
+	<string name="info_70db">70dB dan banyak lagi: dapat memengaruhi belajar dan bekerja.</string>
+	<string name="info_90db">90dB dan lebih banyak mempengaruhi audisi.</string>
+	<string name="info_150db">150dB : Eksposur tiba-tiba ke lingkungan suara 150dB, akan memecah gendang telinga. Audisi akan benar-benar hilang.</string>
+</resources>

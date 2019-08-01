@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Fonts"><attr format="string|reference" name="typeface"/><attr name="android:textStyle"/><attr format="color|reference" name="_BorderColor"/><attr format="dimension|reference" name="_BorderWidth"/></declare-styleable>
+    <!-- From: file:/home/jitpack/build/Library/res/values/attrs.xml -->
+    <eat-comment/>
+    <item name="_FontsExtraData" type="id"/>
+</resources>
