@@ -1,9 +1,0 @@
-int attr _BorderColor 0x7f010001
-int attr _BorderWidth 0x7f010002
-int attr typeface 0x7f010000
-int id _FontsExtraData 0x7f020000
-int[] styleable Fonts { 0x01010097, 0x7f010000, 0x7f010001, 0x7f010002 }
-int styleable Fonts__BorderColor 2
-int styleable Fonts__BorderWidth 3
-int styleable Fonts_android_textStyle 0
-int styleable Fonts_typeface 1
