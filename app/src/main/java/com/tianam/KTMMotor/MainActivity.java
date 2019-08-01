@@ -24,6 +24,11 @@ import com.github.mikephil.charting.data.LineDataSet;
 import com.github.mikephil.charting.formatter.FillFormatter;
 import com.github.mikephil.charting.interfaces.dataprovider.LineDataProvider;
 import com.github.mikephil.charting.interfaces.datasets.ILineDataSet;
+import com.tianam.KTMMotor.model.FileUtil;
+import com.tianam.KTMMotor.model.MyMediaRecorder;
+import com.tianam.KTMMotor.model.Speedometer;
+import com.tianam.KTMMotor.model.World;
+import com.tianam.KTMMotor.view.InfoDialog;
 
 import java.io.File;
 import java.text.DecimalFormat;
@@ -33,7 +38,7 @@ import java.util.Date;
 /**
  * Created by tianam on 2019/7/21.
  */
-public class SpeedActivity extends Activity {
+public class MainActivity extends Activity {
     ArrayList<Entry> yVals;
     boolean refreshed=false;
     Speedometer speedometer;
@@ -109,7 +114,7 @@ public class SpeedActivity extends Activity {
         infoButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                InfoDialog.Builder builder = new InfoDialog.Builder(SpeedActivity.this);
+                InfoDialog.Builder builder = new InfoDialog.Builder(MainActivity.this);
                 builder.setMessage(getString(R.string.activity_infobull));
                 builder.setTitle(getString(R.string.activity_infotitle));
                 builder.setNegativeButton(getString(R.string.activity_infobutton),

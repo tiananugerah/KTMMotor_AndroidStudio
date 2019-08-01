@@ -1,4 +1,4 @@
-package com.tianam.KTMMotor;
+package com.tianam.KTMMotor.view;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -6,6 +6,9 @@ import android.os.Bundle;
 import android.os.Handler;
 import android.view.Window;
 import android.view.WindowManager;
+
+import com.tianam.KTMMotor.R;
+import com.tianam.KTMMotor.MainActivity;
 
 /**
  * Created by tianam on 2019/7/21.
@@ -30,7 +33,7 @@ public class SplashScreenActivity extends Activity {
             @Override
             public void run() {
                 // TODO Auto-generated method stub
-                Intent i = new Intent(SplashScreenActivity.this, SpeedActivity.class);
+                Intent i = new Intent(SplashScreenActivity.this, MainActivity.class);
                 startActivity(i);
 
 

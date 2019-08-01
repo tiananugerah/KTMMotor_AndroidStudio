@@ -1,4 +1,4 @@
-package com.tianam.KTMMotor;
+package com.tianam.KTMMotor.view;
 
 import android.app.Dialog;
 import android.content.Context;
@@ -8,6 +8,8 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.LinearLayout;
 import android.widget.TextView;
+
+import com.tianam.KTMMotor.R;
 
 /**
  * Created by tianam on 2019/7/21.

@@ -6,13 +6,13 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:background="@drawable/bg_page"
     android:orientation="vertical"
-    tools:context="com.tianam.KTMMotor.SpeedActivity">
+    tools:context="com.tianam.KTMMotor.MainActivity">
 
     <FrameLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_weight="1">
-        <com.tianam.KTMMotor.Speedometer
+        <com.tianam.KTMMotor.model.Speedometer
             android:id="@+id/speed"
             android:layout_centerInParent="true"
             android:layout_width="280dp"

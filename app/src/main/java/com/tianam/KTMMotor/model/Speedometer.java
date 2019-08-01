@@ -1,4 +1,4 @@
-package com.tianam.KTMMotor;
+package com.tianam.KTMMotor.model;
 
 import android.content.Context;
 import android.graphics.Bitmap;
@@ -9,6 +9,9 @@ import android.graphics.Matrix;
 import android.graphics.Paint;
 import android.util.AttributeSet;
 import android.widget.ImageView;
+
+import com.tianam.KTMMotor.R;
+import com.tianam.KTMMotor.MainActivity;
 
 /**
  * Created by tianam on 2019/7/21.
@@ -43,7 +46,7 @@ public class Speedometer extends ImageView {
 
         paint = new Paint();
         paint.setTextSize(44);
-        paint.setTypeface(SpeedActivity.tf);
+        paint.setTypeface(MainActivity.tf);
         paint.setAntiAlias(true);  //Anti-aliasing
         paint.setTextAlign(Paint.Align.CENTER);
         paint.setColor(Color.WHITE);

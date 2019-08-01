@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">SoundMeter</string>
-	<!-- SpeedActivity.java -->
+	<!-- MainActivity.java -->
 	<string name="activity_infobull">Ceci est une boîte de message personnalisé</string>
 	<string name="activity_infotitle">A propos des Décibels</string>
 	<string name="activity_infobutton">Ok</string>

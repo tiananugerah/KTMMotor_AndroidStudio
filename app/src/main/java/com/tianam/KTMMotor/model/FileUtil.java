@@ -1,4 +1,4 @@
-package com.tianam.KTMMotor;
+package com.tianam.KTMMotor.model;
 
 import android.os.Environment;
 

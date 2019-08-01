@@ -10,8 +10,8 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
 
-        <activity android:name="com.tianam.KTMMotor.SpeedActivity"/>
-        <activity android:name="com.tianam.KTMMotor.SplashScreenActivity">
+        <activity android:name="com.tianam.KTMMotor.MainActivity"/>
+        <activity android:name="com.tianam.KTMMotor.view.SplashScreenActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />

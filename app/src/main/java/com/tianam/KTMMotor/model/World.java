@@ -1,4 +1,4 @@
-package com.tianam.KTMMotor;
+package com.tianam.KTMMotor.model;
 
 /**
  * Created by tianam on 2019/7/21.
